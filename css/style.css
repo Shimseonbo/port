@@ -72,7 +72,7 @@ html{
 }
 .pr_container {
     display: flex;
-    width: 80%;
+    width: 70%;
     margin: auto;
     /*+++++++++++++++ this++++++++*/
     margin-top: 100px;
@@ -111,7 +111,7 @@ html{
     line-height: 1.5;
     float: left;
 /*++++++++++++++ this +++++++++++++++++++*/
-    _padding-top: 20px;
+    padding-top: 20px;
     padding-left: 10px;
 }
 .pr_txt>div {
